@@ -6,7 +6,7 @@ Install `github.com/alexisvisco/kcd-mux`
 go get github.com/alexisvisco/kcd-mux
 ```
 
-Use `kcdmux.Setup()` to register path extractor for gin.
+Use `kcdmux.Setup()` to register path extractor for mux.
 
 ### Example
 
